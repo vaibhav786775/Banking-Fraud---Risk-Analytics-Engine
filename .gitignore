@@ -19,3 +19,9 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Generated database (runtime artifact)
+*.db
+
+# Generated outputs (runtime artifacts)
+outputs/
